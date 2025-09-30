@@ -1,9 +1,0 @@
-This is where outputs are stored 
-
-= The model output
-- The readme ouput
-- The logs
-- The version changelog
-
-
-
