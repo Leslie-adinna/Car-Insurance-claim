@@ -1,6 +1,3 @@
-# Car-Insurance-claim
-: To develop a predictive model that determines if a customer will submit a vehicle insurance claim 
-
 # Car Insurance Claim Prediction
 
 ## Project Overview
@@ -13,9 +10,9 @@ This project focuses on building a predictive model that determines whether a cu
 
 ## Objective
 
-* **Goal:** Develop a machine learning model that predicts if a customer will submit a vehicle insurance claim.
-* **Target Variable:** `Outcome` (1 = Customer submitted a claim, 0 = No claim).
-* **Business Value:**
+**Goal:** Develop a machine learning model that predicts if a customer will submit a vehicle insurance claim.
+**Target Variable:** *Outcome* (1 = Customer submitted a claim, 0 = No claim).
+**Business Value:**
 
   * Streamline financial planning
   * Improve claims handling
@@ -69,7 +66,7 @@ This project focuses on building a predictive model that determines whether a cu
 
 ## Project Structure
 
-```
+```yaml
 Car_Insurance_Claim_Prediction/
 │
 ├── data/                 # Raw and processed datasets
