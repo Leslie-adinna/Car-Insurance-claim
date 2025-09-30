@@ -1,5 +1,4 @@
 # Car Insurance Claim Prediction
-
 ## Project Overview
 
 AutoInland, a vehicle insurance provider, interacts with customers at very few touchpoints. Among these, filing and settling claims is one of the most critical. To maintain high customer satisfaction and improve service levels, AutoInland aims to anticipate future demands by predicting claim request volumes.
